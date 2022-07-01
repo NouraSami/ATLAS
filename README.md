@@ -1,2 +1,2 @@
 # ATLAS
-ATLAS is a website that offers image references to artists based on the poses used in previous images of their art uploaded to their account on ATLAS by them.
+ATLAS is a website that uses AI to offer reference images to users (artists) based on previously uploaded art by the artist, and specifically the pose of the character drawn in that piece.
