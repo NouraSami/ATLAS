@@ -1,5 +1,7 @@
 You can download the refrence images used from https://www.kaggle.com/datasets/norasami/posesdataset
 
+Place them instead of this file after downloding.
+
 The Gallery folder tree structure should look like this 
 
 Gallery
@@ -10,4 +12,4 @@ Gallery
 └── WithAPet
     └── 100 JPG images
 
-Place them instead of this file after downloding.
+
