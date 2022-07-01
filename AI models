@@ -1,0 +1,7 @@
+There are two AI models used in ATLAS.
+
+To build these models, visit my other repositories CNN-ArtStyles-Classifier and CNN-Poses-Classifier.
+
+Place the models here.
+
+They should be of type h5 files and named Poses and Artstyles.
