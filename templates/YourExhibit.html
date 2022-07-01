@@ -1,0 +1,10 @@
+{% extends "Layout.html" %}
+{% block content%}
+<div class="row">
+    {% for image in images %} 
+        <div class="img-zoom" >
+            <img src="{{url_for('static', filename='uploads/')}}{{image.imageName}}"/>
+        </div>
+   {% endfor %}
+</div>
+{% endblock content %}
